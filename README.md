@@ -1,0 +1,2 @@
+﻿verificationCode
+这是一个生成中文GIF验证码的项目-集成了SpringMVC
